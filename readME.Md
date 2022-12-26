@@ -1,0 +1,1 @@
+basic project to help me practice creating a shopping cart in react.js
